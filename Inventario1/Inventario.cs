@@ -21,7 +21,6 @@ public class Inventario
     }
 
     
-
     public void listarProductos() {
         Console.Clear();
         Console.WriteLine("");
